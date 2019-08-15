@@ -7,7 +7,7 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Upcoming Events', folder: 'pages', file: 'upcoming.html'}
+# - {name: 'Upcoming Events', folder: 'pages', file: 'upcoming.html'}
 - {name: 'Previous Events', folder: 'pages', file: 'previous.html'}
 - {name: 'Volunteer', folder: 'pages', file: 'volunteer.html'}
 - {name: 'Our Team', folder: 'pages', file: 'team.html'}
