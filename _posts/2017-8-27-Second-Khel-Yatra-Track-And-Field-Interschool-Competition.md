@@ -3,7 +3,7 @@ layout: post
 title: "Elementary School Football competition"
 author: "Avi Wadhwa"
 categories: previous
-tags: [sample]
+tags: [previous]
 image: khel-yatra-1.jpg
 ---
 
