@@ -6,7 +6,8 @@ title: Home
   <img src="{{ site.github.url }}/assets/img/khel yatra.jpg">
 </div>
 <h1 style="text-align:center">Upcoming Event</h1>
-{% for post in paginator.posts %}
+
+{% assign post = site.posts.first %}
 
 <article>
   <a href="{{ site.github.url }}{{ post.url }}">
@@ -15,8 +16,6 @@ title: Home
     </div>
   </a>
 </article>
-
-{% endfor %}
 
 <!-- Pagination links -->
 <div class="pagination">
