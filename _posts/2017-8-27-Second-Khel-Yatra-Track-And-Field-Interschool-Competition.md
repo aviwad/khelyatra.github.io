@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "First Khel Yatra: Track and Field Interschool competition"
+title: "Elementary School Football competition"
 author: "Avi Wadhwa"
 categories: previous
 tags: [sample]
 image: khel-yatra-1.jpg
 ---
 
-###Testing 123, first khel yatra
+second khel yatra testing 123
