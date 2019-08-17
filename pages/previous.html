@@ -5,7 +5,7 @@ title: Previous Events
 {% for post in site.categories.previous %}
   <a href="{{ site.github.url }}{{ post.url }}">
     <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }});border-radius: 2rem"{% endif %}>
-      <h2><span>{{ post.title }}</span></h2>
+      <h2><span style="border-radius: 1rem;">{{ post.title }}</span></h2>
     </div>
   </a>
 {% endfor %}
