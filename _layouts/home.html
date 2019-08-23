@@ -14,11 +14,13 @@ title: Home
     </div>
   </a>
 {% endfor %}
+
 <h1 style="text-align:center">Previous Events</h1>
+
 <div class="scrolling-wrapper">
   {% for post in site.categories.previous %}
-    <a class="card" href="{{ site.github.url }}{{ post.url }}">
-      <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }});border-radius: 2rem"{% endif %}>
+    <a href="{{ site.github.url }}{{ post.url }}">
+      <div class="featured-posts card" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }});border-radius: 2rem"{% endif %}>
         <h2><span style="border-radius: 1rem;">{{ post.title }}</span></h2>
       </div>
     </a>
