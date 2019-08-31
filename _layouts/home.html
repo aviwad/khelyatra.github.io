@@ -18,7 +18,7 @@ title: Home
 <h1 style="text-align:center">Previous Events</h1>
 
 <div class="scrolling-wrapper">
-  <div class="card">
+  <div class="card card123">
    <img src="{{ site.github.url }}/assets/img/khel yatra.jpg" alt="Avatar" style="width:100%">
    <div class="containercard"">
      <h4><b>John Doe</b></h4>
@@ -26,7 +26,7 @@ title: Home
    </div>
  </div>
  {% for post in site.categories.previous %}
-  <div class="card">
+  <div class="card card123">
      <a href="{{ site.github.url }}{{ post.url }}">
        <img src="{{ site.github.url }}/assets/img/{{ post.image }}" alt="{{ post.title }}" style="width:100%">
        <div class="containercard">
