@@ -19,10 +19,24 @@ title: Home
 
 <div class="scrolling-wrapper">
   <div class="card">
-   <img src="{{ site.github.url }}/assets/img/khel yatra.jpg" alt="Avatar" style="width:100%">
-   <div class="container">
+   <img src="{{ site.github.url }}/assets/img/khel yatra.jpg" alt="Avatar" style="width:300px">
+   <div class="container" style="width:300px">
      <h4><b>John Doe</b></h4>
      <p>Architect & Engineer</p>
    </div>
  </div>
+ {% for post in site.categories.previous %}
+  <div class="card">
+     <a href="{{ site.github.url }}{{ post.url }}">
+       <img src="{{ site.github.url }}/assets/img/{{ post.image }}" alt="{{ post.title }}" style="width:300px">
+       <div class="container" style="width:300px">
+         <h4><b>{{ post.title }}</b></h4>
+         <p>add description</p>
+       </div>
+       <div class="featured-posts" {% if post.image %}style="background-image:url({{ site.github.url }}/assets/img/{{ post.image }});border-radius: 2rem"{% endif %}>
+         <h2><span style="border-radius: 1rem;">{{ post.title }}</span></h2>
+       </div>
+     </a>
+  </div>
+ {% endfor %}
 </div>
