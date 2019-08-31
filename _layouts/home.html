@@ -23,17 +23,7 @@ title: Home
      <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}" alt="{{ post.title }}" style="max-width:400px;height:200px"></a>
      <div class="containercard">
        <h4><b><a class="hover_underline" href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></b></h4>
-       <span>
-         {{ site.data.settings.post_date_prefix }}
-         {% assign d = page.date | date: "%-d"  %}
-         {{ page.date | date: "%B" }}
-         {% case d %}
-           {% when '1' or '21' or '31' %}{{ d }}st
-           {% when '2' or '22' %}{{ d }}nd
-           {% when '3' or '23' %}{{ d }}rd
-           {% else %}{{ d }}th{% endcase %},
-         {{ page.date | date: "%Y" }}
-       </span>
+       <h4>{{ post.date }}</h4>
        <p><a class="hover_underline" href="{{ site.github.url }}{{ post.url }}">{{ post.description }}</a></p>
      </div>
   </div>
