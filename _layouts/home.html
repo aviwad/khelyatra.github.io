@@ -18,22 +18,13 @@ title: Home
 <h1 style="text-align:center">Previous Events</h1>
 
 <div class="scrolling-wrapper">
-  <div class="card card123">
-   <img src="{{ site.github.url }}/assets/img/khel yatra.jpg" alt="Avatar" style="width:400px;height:200px">
-   <div class="containercard"">
-     <h4><b>John Doe</b></h4>
-     <p>Architect & Engineer</p>
-   </div>
- </div>
  {% for post in site.categories.previous %}
   <div class="card card123">
-     <a href="{{ site.github.url }}{{ post.url }}">
-       <img src="{{ site.github.url }}/assets/img/{{ post.image }}" alt="{{ post.title }}" style="max-width:400px;height:200px">
-       <div class="containercard">
-         <h4><b>{{ post.title }}</b></h4>
-         <p>add description</p>
-       </div>
-     </a>
+     <a href="{{ site.github.url }}{{ post.url }}"><img src="{{ site.github.url }}/assets/img/{{ post.image }}" alt="{{ post.title }}" style="max-width:400px;height:200px"></a>
+     <a href="{{ site.github.url }}{{ post.url }}"><div class="containercard">
+       <h4><b>{{ post.title }}</b></h4>
+       <p>add description</p>
+     </div></a>
   </div>
  {% endfor %}
 </div>
