@@ -90,3 +90,8 @@
 .hover_underline:hover {
   text-decoration: underline !important;
 }
+
+.p {
+  word-break: break-all;
+  white-space: normal;
+}
