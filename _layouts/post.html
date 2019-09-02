@@ -23,11 +23,25 @@ layout: default
     <div class="featured-image">
       <img src="{{ site.github.url }}/assets/img/{{ page.image }}">
     </div>
+    <!-- replace this cruft with an image gallery, along with Google Photos link-->
   {% endif %}
 
   <article>
     {{ content }}
   </article>
+
+  <h2>
+    Winners
+  </h2>
+
+  <article>
+    {{ page.winner }}
+    <!-- decide whether to give text, or scrolling cards, or column table cards with text and image-->
+  </article>
+
+  <h2>Sponsors</h2>
+
+  <!-- choose either text with links or images for sponsors -->
 
   <div class="post-share">
     <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
