@@ -8,5 +8,3 @@ tags: [previous]
 image: khel-yatra-1.jpg
 winner: testing123 new winner
 ---
-
-###Testing 123, first khel yatra
