@@ -14,7 +14,7 @@ winner: nobody right now! testing123
   data-link="https://goo.gl/photos/75wBpHismzfdZYfq8"
   data-title="Khel Yatra August 27, 2017"
   data-description="114 new photos added to shared album"
-  data-repeat="false">
+  data-delay="2">
   <object data="https://lh3.googleusercontent.com/v2k-hdEiqK9aItDHgNe6TxKfUqsryvcGYksQzgwkxzwNChwfG6on2galP3ByJLw0G_oYVa73YAHVf1ZwGKhwGL0mHgvI8ZraJ3EtrFKsYVg1mZof2N6j4QsOaPRB0anJoA3sZXAwTeY=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/WhhLocV88tSQtZr8tMCYa3Wwb4lMkKW07kadvgtheSobEw151Kkckls3idx3X16fMB_WuRbDQDVk1HqedT-ib3SgiRA8fRcZ8nuPg4a6wFtM6O_UI-m-Pyj-pnLqu9TOz8LVuibvJvM=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/ezJDUFXdIRe-TR9DTROODV5RTdNoy76M3cgE9kobl9_H9icgvkM46kgSGwFLL-HTQ8ncwF_lO_a4Q923yg0vyLbpybn0RmL8zG0jzS2CBfc0Y2DWnsrftNeA3DzLJuU9dr_rLftUgds=w1920-h1080"></object>
