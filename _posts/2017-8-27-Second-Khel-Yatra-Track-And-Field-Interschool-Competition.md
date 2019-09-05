@@ -17,22 +17,15 @@ winner: nobody right now! testing123
   data-repeat="false">
   <object data="https://lh3.googleusercontent.com/v2k-hdEiqK9aItDHgNe6TxKfUqsryvcGYksQzgwkxzwNChwfG6on2galP3ByJLw0G_oYVa73YAHVf1ZwGKhwGL0mHgvI8ZraJ3EtrFKsYVg1mZof2N6j4QsOaPRB0anJoA3sZXAwTeY=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/WhhLocV88tSQtZr8tMCYa3Wwb4lMkKW07kadvgtheSobEw151Kkckls3idx3X16fMB_WuRbDQDVk1HqedT-ib3SgiRA8fRcZ8nuPg4a6wFtM6O_UI-m-Pyj-pnLqu9TOz8LVuibvJvM=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/Y80kqfyfNcLMNbrRiLu3qi4GnsQJ71IbXckSSwsMMvt24V8WZv2CRS4YfzH6LBI5Slqfl8QG5Y0y7T8FkMNjdidrSk-CP4zmpMLaUVxszfdHQG-4NGs324QbXYEh8pfLi-FeK_ydeuE=m18" type="video/mp4"></object>
   <object data="https://lh3.googleusercontent.com/ezJDUFXdIRe-TR9DTROODV5RTdNoy76M3cgE9kobl9_H9icgvkM46kgSGwFLL-HTQ8ncwF_lO_a4Q923yg0vyLbpybn0RmL8zG0jzS2CBfc0Y2DWnsrftNeA3DzLJuU9dr_rLftUgds=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/mZhiDaarfdsUX9FtOzJuqBul0v1UeCXPnhNrU6wivcMZ3w3bPKE8qmZINQXgyHDSgR7ZDiFZVd2U1rHA3xxUTLjxxc1-2gQ6nHg38PLrgeMgGzZy0BTHlno5BRr1q6zAKkzuY60frbY=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/cwFr4hhn3VcNEU3Kf5nrvWA2Rjvl6saQttfmJyO6SJ_i-vxPeUQINBZO_YewoBrV8zG1jH8KkSXIYyJQinfuJhE32EGhNYGt9hNjPm8OGM9Dq4Ix0d6tiBr6KDUcnzEMIrfF94flsqE=m18" type="video/mp4"></object>
-  <object data="https://lh3.googleusercontent.com/qlCTA4kkh9jQwS_lqzxi4BiT2zGQXNbNb2997a9P3yjxJfPnP9i2CF-PaT8icN2hj42DNuSqPQKFAjZ3-3Jtap2UYj_GEMupPcNHYf2kZAQd308xnONs5IcsmVbnG038q_NBdTw3DTo=m18" type="video/mp4"></object>
-  <object data="https://lh3.googleusercontent.com/tdIKpk2NlcPNQjpn0vhxY4eMIP75TPv2Fj-lM97pQYEknTUrDaHXd_Trj3Xv2UcObIHbYP5exIaNwWWaU4E3cRVK_6D1IfWMnfHEAJP8JxAgfKFEYtAcBQD9sMKOYMSV8ebwUnkQ9jQ=m18" type="video/mp4"></object>
-  <object data="https://lh3.googleusercontent.com/AeF1Kw2mYZFqVOj8xgnWiWer3FNBpEQUdCaVw0lfgjnLk_HFuBQLfTlU-1lMVb2JStrHNOhHwC9nXuJ3RE6SolAmaTe8K999wrnTvd1Fa-j2S-BG7U1ci6nXcDZTGdas-QHcXfsmWIw=m18" type="video/mp4"></object>
   <object data="https://lh3.googleusercontent.com/Q-ZP_lzmnHPOuUDepgk5OlH6IE5Ff8JnT9jw12bY3ujfj9tYTLhRkzRwdD5bLj36-EgsZJK6ivqBwfR6Xe32eDIXZ9gqJGEGE_PWiAKomnteGDwwTb9TWzeYDNTaxjV6s7iGq3QAaUg=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/0F9vPM_SrABFBPoNPNzrHwalBBaZ0IO3qRuyaaadg2Z0Kr2vSPGY9BarenfWFiJflYSub1nJH3YLq3lTP6Q8KpNWcrELWVrnHmXqSG8lAjPWr_SzPSSyISP4ngQFowAnMljTLJxOlMw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/FSxrAw8eEubwm2Dkq5HIHWRoguHbwr2YZNzLkYta4SX4inbZug5miIF4W-ZMG6L2yZDrCCoYTQNC4o3FplnsRh-j3uSnq3bShE-nOMRb8nNjQssdfHGk-Pz6rch3x2MBlECOUNMnR_Y=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/rQCYvU-qEMSTRn5kf2Ap-8vAVtI1QUiDIyoTmosY0vCmkQzG5qkv55It1fnSzPc7xr7YJ0bvhJyv4JERHTM3ec7UmWsTG0vH4ixxmvRJ8hF6oFgTrY4XDYCeXP9F5vsea7H_sm01uF0=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/UT4YkAracf98ScpIZ9obWfnnSwQiCHiRD37MarH6ZIuT4IdFwjbmVKfVVG1ydJWkAR0GNc3WjTqIUxP9bdCdsz3sm6vW0274zkcbXZEetrDCym51E4RUBoSxor5lIZWDG_kbSMwJrPA=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/DQdThMb5CZ8Ink-K58AswWCmj_hkE4-nUl4GKGYTCi5FpDxnNsoOmvWGD1MADqgHquDCMe57mmtuLLm1lziaqtQYeBOfOUP96PpQZ04r3kCgVUka_V_H8tgH319cP_vWxheKhOy5l9c=m18" type="video/mp4"></object>
   <object data="https://lh3.googleusercontent.com/9EGmZ6zEdAmvPdYkNcX0ZML1SDL6JxvtSwvg9rSONV6rgtPhGfO-zlRrC1Q40zJzvNsZOBCQ_IoU--t5JfJvd-W0euEKstB5idO5vTwH_y4JU-YH1W57ZqvEYsElmfiMyLd5hDlZoLY=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/Zbi_JfoYG95QJyIIvGorhprWQMTkR_FuIhglT65QowgZAHA25AB28zLsB3jSQ0QolgRBTCL5yxdFcoXugsqPcDIqsswM6AdH5KCLbz86c_ckuBsuRezRNGTaZTArTI0NxVkCpzIrR3o=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/4njylrqZVmJIjCFMo9hi88X2eCInqcjCX7SrawRaPfiyu14Y6-b3EFX6zk795vRzHroWDRFwBYOw7rPKN1pJSqlNfWTxylZbEPJnV-DM_ftSW3-c4LxKWIltijH2scFDlV6wTI-vAB0=m18" type="video/mp4"></object>
   <object data="https://lh3.googleusercontent.com/-bEMr2I2Wlttj2tXrtP2ITVDK2bE6SFFoAqR8pmRQ8iBySUUeK-II_K_ayCYZJYtS-TAhscwNX-cEEWDZuRp4MjwfcN65hMpppMnR8gW5IECxa48pI2P49eENzFccJLpt9FNVifoe-8=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/lJJdlJls7m3YLw8QP0Cm7owjxv4AC88HIdlgRbGNsYcAkh9RA5Bj3JpCzRdNdf4H-reXJkJdJBpmnTZ4fW1jPysLl4qf7cpfNg66HYEHIvFN-4Ss5mk9RwBQIz4vghe6UT08FWoBzZE=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/rjzngBuXwFd1ADP3sjHuZ4NfZt9Kp-LvjUW0GK9ix1LUFCCbqPVfTNTTot8342a8zWuRuy0FjHRRXgqxOKgP4VARLiwu0wJA7S7KY1vHr9Je_toi1-B-0hTa9PJVFbDOA5FupLxRfYE=w1920-h1080"></object>
@@ -67,16 +60,10 @@ winner: nobody right now! testing123
   <object data="https://lh3.googleusercontent.com/x8aYap8Dtfhstu0krfnzwvNfRfi5OQZoJReLHPbWE5VPE5S33RHhVkBCW-KSlLH4rvkd5QWwD_GXgUxLyGLuhvYIr6jaS9i9LzkKnTBNKvoEFhKgn9968Qj9bYBVVO9_BGqST8aPDl4=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/8HpoamoHsk1znB0INQuR0pQwbjdsHDyCsn7RxFrmyE17OVln2DMBq8X_0N-1WoPyMMvByUY6zoLLNOc-tg1DTDyYZno8kxpY7AuI7r23uKtLiDnHNAQIWdE4AFsEYhzu67rIFWmUNy4=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/DstwgCyPY07TIffxjFUIm8y0yv3rQQ1BsdFrf_j73bJVnBK_E3LPBGi4ZSpbJszRZgV-zIw4NN6AcGP5Ul6VutOy_zV47ffWAw66QV5gGst29Ge9DjUSBAZ8SnknI6YxI6SSscT7Tw8=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/9niVFmP7pFL5urEJRLcYPCuK71EIHcSEPelQkHj-sCDdfoKl7Bahrr6a7es1jc0KJK8-Ej5VGbVDBTs7AmntK1dHt8SPG7-UCF6k1X_wgNT15L_7c7w9y3GRFD3qRsIxVvtufICr1O0=m18" type="video/mp4"></object>
-  <object data="https://lh3.googleusercontent.com/03qC22ftuI3W6GbMSt7CeK2HWkwVYl7eE-R_vMHt6A0STiSw-MZaXunEcnBzdGMaQLHxSK9lqKHoNcXJSklOxjAVSK1Qh0n1LdUmrH9veDKYJt4WPgj3RApwhYTBHnYpOHhB8nMV13M=m18" type="video/mp4"></object>
-  <object data="https://lh3.googleusercontent.com/Od7wLYNpsXHy_TE-HCZ1Huj-XfewLfl6t_OYFY5GMbMJEJ-_zX8cSSfeXOkiHmNtC35LIoL6IcPZpV4NcpBWEnWzHPtqR_O0fPoOPHkli5NmSwolsBSoGdiMdoKl3BwN88_IRKaEXlU=m18" type="video/mp4"></object>
-  <object data="https://lh3.googleusercontent.com/1H6JjJUa5wL85kOGGL3LOlWkP1ttnezagfaPQTf1avIfF7zWAiVDoNtP-Qr1qPtpspV0kvdM9zsveHO6jhcALFeeuw7fHPduju235FL71mkXsnJ0wprHPGfD-cNSaer_WEcnSjMbeyE=m18" type="video/mp4"></object>
   <object data="https://lh3.googleusercontent.com/i4-6LyRFZKNzxa2SBw6-yorcB4m0Ehy6X8ttWL03ePf65kRy-htUfSkrx0Y_gV-eaIKho6ZDpviSHwHv3mi4IJtqmXWjwiHYJUUFhd0lUr26Wo4o59HkAhViF_LaWDhvkurbX7dmlDA=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/jRQzj7SMLhudC3LdfFtZzOYzjMPw_iBrXyQGDfgFYFIr1kuFbg0YHPrHoDiVhVV3ZL-HdFugaai62YFk89apDt7wHaDR4bcZlaM2WiBsLO1sUeS27c4umRsg1aKyB6NtJcjaOjWwmQM=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/KprthLwTTRmgJY_qo5rh5cBp1L2oMjHyAmWosekiIaOSHmnL54mTI-n-lvxp50ljyG26sYhnTkWXa_CwKUtiRRHAqATpWdLeY3uUrCEtz7OPfCFKsnbQoCXzUN-Go5z7vmftAL1n-UI=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/1K9_W_KmjIDXr9BufH10HlPgkOAjkT4rta9A0P2RfO5q4kOelWaqtdCHKUDL3aqfukqaWl4ZIchiInmMsUbrIPHzHYYQLsB3VsB-d4DQhO1MluCdTKyqUYnaUpKE-3j6994yn01yvWQ=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/omljfLrfBS5wuGiyhG-1-qmUZ-j0lj999kTP_G5ab8vct4_7QzCiwJ9Hf1f085Mj2VBZbu32quDt-H8baCke4FgXZ36m-sJjhVra98Bas5YI_wXoCgJ65biyuyvQjQfNumOJtIIoy7E=m18" type="video/mp4"></object>
-  <object data="https://lh3.googleusercontent.com/x20BFKucH-asZQYH2duEANnA2Gf7gHdV_fW7_cPgLTTC_EvZa_wRe-Ae8YKPGMT9l34o7hps3Ur0GivgeUe1tyQsMkoZqVyypb7u91zsprnZXOFwc38XCoMqpy9MitxUPDJjgVwnLdA=m18" type="video/mp4"></object>
   <object data="https://lh3.googleusercontent.com/DaGplEkqkAFG8iq56l0486-aKhoBoWksh18RO7foofed8GS9TiyblqNcnRx7Ou5KR55446nF_SWHp6OPYBB9LHbrD_usMMoQIV5CsBBNZTsMhAZR0XJq5TAELUYpNgr3V05k0mFJDKE=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/AnSo2mYv6ATJLMEVYhXz5hwu3rzyDKNJikbqc6qyiQCLoThalv5UCzck_U3x6JDykIydA3psh_snKlX4PPztClYjq1Oi08COKGOyYzr1XFyEJAoXi_2kKv0s-fy4a7k1ff9HOrEua8U=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/Df3F4PuplKBt_RNP1KAqn7RKwh0RvybJhgKYQwWsMnSNgUqylBJ3Q12r0Q3R1VeOXFqqZzWlJRRdiU9BSDCKPKY78T1vZfdrkaNEcEgLy-3hLPnWzr_UdFWvziaszIB93ZwzY6B4cpU=w1920-h1080"></object>
@@ -131,5 +118,7 @@ winner: nobody right now! testing123
   <object data="https://lh3.googleusercontent.com/PC8c0x4_DB0N7RrvxsdTTY2Aw45p5tvPMbDFNi9BgHU1HYFesiodEsdOBauJF3m-ogFqHBkogdoTcQcl0E3nLmFcu58FvTqVOnMx1yRqGpD8Jkj1Yl_Fq0MWkfv16AhALnE6m385lr4=w1920-h1080"></object>
 </div>
 
-
+Click left and right arrows to go back and forth between pictures!
+<b>insert button for google photos link</b>
+<b>remove videos from glitchy gallery</b>
 second khel yatra testing 123
