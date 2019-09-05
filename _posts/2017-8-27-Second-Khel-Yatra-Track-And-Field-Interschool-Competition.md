@@ -119,6 +119,7 @@ winner: nobody right now! testing123
 </div>
 
 Click left and right arrows to go back and forth between pictures!
+
 <b>insert button for google photos link</b>
-<b>remove videos from glitchy gallery</b>
+
 second khel yatra testing 123
