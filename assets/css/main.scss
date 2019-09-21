@@ -5,10 +5,14 @@
 /*
   Site variables
 */
+@font-face {
+  font-family: "Cantarell";
+  src: url("../assets/fonts/*");
+}
 
-$base-font-family: 'Roboto', sans-serif;
+$base-font-family: 'Cantarell', sans-serif;
 
-$body-font-family: 'Roboto', sans-serif;
+$body-font-family: 'Cantarell', sans-serif;
 
 $code-font-family: "Source Code Pro", monospace;
 
