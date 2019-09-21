@@ -1,9 +1,8 @@
 <header class="site-header">
-  <h3 class="site-title">
-    <a href="{{ site.github.url }}/">
-      <button type="button" class="demo-button black-border-button"><img src="{{ site.github.url }}/assets/img/navbar.png"><h3>Home</h3></button>
-    </a>
-  </h3>
+  <a href="{{ site.github.url }}/">
+    <img style="display:inline;" src="{{ site.github.url }}/assets/img/navbar.png"><h2 style="margin-left:0.5rem; display:inline;">Home</h2>
+  </a>
+
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <b><a href="{{ site.github.url }}/{{ item.folder }}/{{ item.file }}" class="menu-link">{{ item.name }}</a></b>
