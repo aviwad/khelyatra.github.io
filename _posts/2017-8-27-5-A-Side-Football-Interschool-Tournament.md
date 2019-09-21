@@ -6,7 +6,8 @@ author: "Avi Wadhwa"
 categories: previous
 tags: [previous]
 image: khel-yatra-2.JPG
-winner: nobody right now! testing123
-summary: actual content 123
+winners: [testing123 new winner, another winner]
+summary: actual content testing 123
+sponsors: [sponsor 1, sponsor 2, sponsor 3]
 googlephotoslink: https://goo.gl/photos/75wBpHismzfdZYfq8
 ---
