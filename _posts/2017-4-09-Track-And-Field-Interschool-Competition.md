@@ -8,4 +8,5 @@ tags: [previous]
 image: khel-yatra-1.jpg
 winner: testing123 new winner
 summary: actual content testing 123
+googlephotoslink: https://goo.gl/photos/b5h2ToDrJQSdLm2y8
 ---
