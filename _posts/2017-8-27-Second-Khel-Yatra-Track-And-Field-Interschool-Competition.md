@@ -7,6 +7,8 @@ categories: previous
 tags: [previous]
 image: khel-yatra-1.jpg
 winner: nobody right now! testing123
+summary: actual content 123
+googlephotoslink: https://goo.gl/photos/75wBpHismzfdZYfq8
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
@@ -117,9 +119,3 @@ winner: nobody right now! testing123
   <object data="https://lh3.googleusercontent.com/tAlumyTEWUo3cFF6Xo61D3W3QZrBmwvb0FQjfOvEWqUADTqOAf6z_24eI6xXr4fG3s6qPtzqgKn2kouSGRH538Th-sdzh4ZDKPHraeQJMeu4094s59u2zF40A7KcFz9I6hPrZHYPDjs=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/PC8c0x4_DB0N7RrvxsdTTY2Aw45p5tvPMbDFNi9BgHU1HYFesiodEsdOBauJF3m-ogFqHBkogdoTcQcl0E3nLmFcu58FvTqVOnMx1yRqGpD8Jkj1Yl_Fq0MWkfv16AhALnE6m385lr4=w1920-h1080"></object>
 </div>
-
-Click left and right arrows to go back and forth between pictures!
-
-<b>insert button for google photos link</b>
-
-second khel yatra testing 123
