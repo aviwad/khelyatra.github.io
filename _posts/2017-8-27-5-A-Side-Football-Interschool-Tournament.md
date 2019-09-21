@@ -5,7 +5,7 @@ description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do ei
 author: "Avi Wadhwa"
 categories: previous
 tags: [previous]
-image: khel-yatra-1.jpg
+image: khel-yatra-2.JPG
 winner: nobody right now! testing123
 summary: actual content 123
 googlephotoslink: https://goo.gl/photos/75wBpHismzfdZYfq8
