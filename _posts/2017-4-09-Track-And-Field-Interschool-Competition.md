@@ -16,7 +16,6 @@ googlephotoslink: https://goo.gl/photos/b5h2ToDrJQSdLm2y8
   data-link="https://goo.gl/photos/b5h2ToDrJQSdLm2y8"
   data-title="KHEL YATRA - April 9th, 2017 Thyagaraj Stadium"
   data-description="257 new photos · Album by Upasna Kapoor">
-  <object data="https://lh3.googleusercontent.com/oiK26CHacDrqZ_Fo4GsARPyvHFjFGumcfUJqNUDR1Xd_GhTeMZjzET36VYyq6sSNKpY2BrYSQ_RMRFOLGIyUTHciEWNetVGQYt3fMM_DH75iW26Poqn7FJwQrzbPc9uf5a_8UzC40xs=m18" type="video/mp4"></object>
   <object data="https://lh3.googleusercontent.com/Wy6bP9nMmCigvpS0aBR78g4ljxCiZZnxRNNDzZ_1330UOSYM_-ZM2RlEbFH8CHyJLLDr3x6NQ8Rl4zar-I9K99ucQFW4_PTFPF0et9DUeDkvbOGn22IE0Go-qNilnQUy8oQYgn-wsQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/W3SsjFkmaKdW6Iwf8DT927dK181rjDyJ2Z_PuLfeDa69nBmSORx341xNf8daY2xgrkcKPHteDsXsTFKLAXgtVrYnxiBtB0BCI5KIjEAUeZFjZD2LT2iWhy6pwIz9tH-J9Rc_5G9VpQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/iSrvJTqowjH9ikU0ULAXUChQjrHIzI-WttdVDSSydXZCdQHxBA8hBTDu7k11pHRS_VULTEJinOEh1SO04NdeUefkcvucjT-aUgHDrvKfWkxpWDuN_HCQtrRHyx_u0MM-ppywjNmuJA=w1920-h1080"></object>
@@ -229,14 +228,6 @@ googlephotoslink: https://goo.gl/photos/b5h2ToDrJQSdLm2y8
   <object data="https://lh3.googleusercontent.com/j-1E0kgbN569EvHqkstlieGJayiFf1rsaZHGngluX3k323_yHhxPh0Nxbl4YI1mkrpFBFxAnKp3Gwq0vRXGj6qbYA9iJFhgUzLu0YwL4Qze10LRFnfFHPQAEicDkMTUj2U0iNXD6Cgs=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/3svZI30AZfX1V1NMkiI3CrBmQpdT4_6eYUJhofR_89TcDTHK4RCW-MMtJLvC9kl1dYNnvlnAwosSNEuzGcHED6_doubRnPtMpyBpnSzq3Ivi9pFuJ_rBz2-915cUDBN0nQ7qr6WG65o=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/wC7Fbg030XLeOcRf1OpDhWaGI877f09DjhbWxQze9L_f8r2tKB6O2mg2liNb6Ju0q2OBwOHZKV8UlFfxtebC4W8-j4fB4yUT1JsQxerdt544P09EZEkuAOnpQxAUMLMIxoqPI-vDmKE=w1920-h1080"></object>
-  <object data="https://lh3.googleusercontent.com/Wr9So6cqEEN5QMxT3k15DobZ9lLVFlWw0zVoreuk4BMciHa8x-TfMU0EOkhwzxmOeZwpsh3QhltdxAQ6ygaAFPl6z11QcsvlSXyCmTuFw7JoTb2w30U53sNO4YlBKHdr7ARUKgCzCA=m18" type="video/mp4"></object>
-  <object data="https://lh3.googleusercontent.com/WI--_oXMUKJ_L-NfrEt5tpRgPI0DeDRawxfPNkiu5q8-ZUqYd4qAXQZcAD_duQwsPRo9dq-vgWi6nF4VldNg2nC6mhVhu5ut17RZ-spqV0w1K2ZMHFnAdJMCXg-Uvx877wMbpxtKFg=m18" type="video/mp4"></object>
-  <object data="https://lh3.googleusercontent.com/uV-Rih-Ng0_PK0wHV-lwd6obzqwYUWZg1l4Azljo2517Wq4_zhlHLkj9SetmLGrfI21-b25KxXPNyjZwvaWu5Jycr75RzSxDq5LKVo3nvkTvI5vPsJCnn5nJsEEXsLdnIRIO7zyMWQ=m18" type="video/mp4"></object>
-  <object data="https://lh3.googleusercontent.com/SL9qxh1zP3n0vg5cENusPMSCY9rHgqGjsw6AHwJJndS3Q-ygXpV-euiLJbPfpJuAeF4dDBim5DzwEs0cz8zv4ncCBpK90ik1qs9FVzdpGsAebnry4EUFq26ix17EOwjlg-L_s6Zcww=m18" type="video/mp4"></object>
-  <object data="https://lh3.googleusercontent.com/rHDMFArdls-Mw946FsNtXYTMf29wdLzGyLk6bWu5VPNb4VS4MbVbs121hY6ey5S-jrZrYvyFbmfnN3H0QNVkoELq23t4tzsUhRisdIHQ61JfugROjdGMMel1I9qPsRZYezeCM21Jkg=m18" type="video/mp4"></object>
-  <object data="https://lh3.googleusercontent.com/M1Nj7W9YRPpm6MKuHCuTHbvhduXl9qHuPYWmY-FjNB059gnCQaXIvViZ3nc4v4AAxKC3GvDUXcTPMcabFllnw1gzG4SfRjA_7tlCUV5d6-14MFYO_PmDWLQx-0sqs5Kou-UKwaJHPw=m18" type="video/mp4"></object>
-  <object data="https://lh3.googleusercontent.com/FJwKPBUQlCMVFa5-njaTQj4PAMF0-xvCnNhAh1-i9hFDfqwnjtjuKU4J4VvezaVa4ELgqIQT92ne6Ih_0C3VyXdbsXFetLT_hUrE5FdNQFIRHVpJEsBshiScPs5vowk7um8eNDN23Q=m18" type="video/mp4"></object>
-  <object data="https://lh3.googleusercontent.com/QRTMI_jlS_AVr3wcrIOLbul9w_eb8qReo7ryTjLrmVrDjZDP_Z_bvZvNXIMMSg7AJzlu9V7Ju2cNvyOPHv0bW4MRh5lMHZEs8PT7FaFsrbDpJTW1M6NeVXHMzwuWYluPhGf-MC5LVQ=m18" type="video/mp4"></object>
   <object data="https://lh3.googleusercontent.com/vbKTvNBG9Gt8-KAP4Ndm3w6jlfl9z-Lc216dCe4mKsDPIxXgrjZHCweI8Drd_lPiQJc7cVLNJbQpWRHGldByYI5J1n3XtJ0l6nIw1Z4G4HEm_SkAgDQFtQLhAfE52IKyqECGCkDbGw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/djPg8VHiQ-3spHVFQJIJQj1gmOQJgY-xQ3mNy021Pz2zy_N50-KagC7R9cXK_lYX8mppGnpObOOVyE4hiOFKRonPXEyZBKmbEzLn51Uy3fE6yaq1yfsywTSkdc9q1Hz_na2CT4hrrw=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/6hcl4TxRuWg7d2hPVzx0CsPFLlCl26FVL6m8uxb-vzIWZ_iTO0TWjJSBbcG5YAP5FQgJ7QelJOAYvRlx8hK_hrP-7luGGDpTo7YNL7qKzhWCqLYEIRca4xLoIlmGq3ZUW2Ljw4TGpw=w1920-h1080"></object>
