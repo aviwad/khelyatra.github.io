@@ -1,6 +1,19 @@
 ---
 layout: misc
-title: Newsroom
+title: Newsroom - Khel Yatra featured on...
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation.
+<div class="newsroomrow newsroom">
+  <div class="newsroomcolumn">
+    <div class="newsroomcard">..</div>
+  </div>
+  <div class="newsroomcolumn">
+    <div class="newsroomcard">..</div>
+  </div>
+  <div class="newsroomcolumn">
+    <div class="newsroomcard">..</div>
+  </div>
+  <div class="newsroomcolumn">
+    <div class="newsroomcard">..</div>
+  </div>
+</div>
