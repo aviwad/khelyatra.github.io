@@ -33,7 +33,9 @@
   }
 }
 
-newsroom {
+.newsroom {
+  display: flex;
+  justify-content: center;
   box-sizing: border-box;
 }
 
@@ -68,5 +70,6 @@ newsroom {
     width: 100%;
     display: block;
     margin-bottom: 20px;
+    padding-top: 20px;
   }
 }
