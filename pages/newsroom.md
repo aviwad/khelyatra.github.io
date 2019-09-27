@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: Newsroom - Khel Yatra featured on...
+title: Newsroom - Khel Yatra is featured on...
 ---
 
 <div class="newsroomrow newsroom">
