@@ -16,4 +16,10 @@ title: Newsroom - Khel Yatra featured on...
   <div class="newsroomcolumn">
     <div class="newsroomcard">..</div>
   </div>
+  <div class="newsroomcolumn">
+    <div class="newsroomcard">..</div>
+  </div>
+  <div class="newsroomcolumn">
+    <div class="newsroomcard">..</div>
+  </div>
 </div>
