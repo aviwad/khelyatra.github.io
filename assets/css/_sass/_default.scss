@@ -77,8 +77,8 @@
   padding: 16px;
   text-align: center;
   margin-top: 10px;
-  transition: margin-top 100ms;
-  -webkit-transition: margin-top 100ms;
+  transition: 100ms;
+  -webkit-transition: 100ms;
 }
 
 .newsroomcard:hover {
