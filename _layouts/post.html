@@ -37,7 +37,14 @@ layout: default
   </h2>
 
   <article style="text-align:center">
-    
+    {% for winner in page.winners %}
+     <div class="card card123">
+        <img src="{{ site.github.url }}/assets/img/{{ winner }}" style="max-width:400px;height:200px">
+        <div class="containercard">
+          <h4><b>{{ winner }}</b></h4>
+        </div>
+     </div>
+    {% endfor %}
     <!-- decide whether to give text, or scrolling cards, or column table cards with text and image-->
   </article>
 
