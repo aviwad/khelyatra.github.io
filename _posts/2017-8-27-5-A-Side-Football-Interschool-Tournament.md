@@ -8,6 +8,6 @@ tags: [previous]
 image: khel-yatra-2.JPG
 winners: [testing123 new winner, another winner]
 summary: actual content testing 123
-sponsors: [sponsor 1, sponsor 2, sponsor 3]
+sponsors: [ Vistara, MakeMyTrip, Genpact, The Park Hotels]
 googlephotoslink: https://goo.gl/photos/75wBpHismzfdZYfq8
 ---

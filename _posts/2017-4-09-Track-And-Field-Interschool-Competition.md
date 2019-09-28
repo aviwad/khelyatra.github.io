@@ -8,6 +8,6 @@ tags: [previous]
 image: khel-yatra-1.jpg
 winners: [testing123 new winner, another winner]
 summary: actual content testing 123
-sponsors: [sponsor 1, sponsor 2, sponsor 3]
+sponsors: [SpiceJet, MakeMyTrip, Mint]
 googlephotoslink: https://goo.gl/photos/b5h2ToDrJQSdLm2y8
 ---
