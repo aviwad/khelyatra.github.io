@@ -37,28 +37,32 @@ layout: default
   </h2>
 
   <article style="text-align:center">
-    {% for winner in page.winners %}
-     <div class="card card123">
-        <img src="{{ site.github.url }}/assets/img/{{ winner }}" style="max-width:400px;height:200px">
-        <div class="containercard">
-          <h4><b>{{ winner }}</b></h4>
-        </div>
-     </div>
-    {% endfor %}
+    <div class="scrolling-wrapper">
+      {% for winner in page.winners %}
+       <div class="card card123">
+          <img src="{{ site.github.url }}/assets/img/{{ winner }}" style="max-width:400px;height:200px">
+          <div class="containercard">
+            <h4><b>{{ winner }}</b></h4>
+          </div>
+       </div>
+      {% endfor %}
+    </div>
     <!-- decide whether to give text, or scrolling cards, or column table cards with text and image-->
   </article>
 
   <h2 style="text-align:center">Sponsors</h2>
 
   <article style="text-align:center">
-    {% for sponsor in page.sponsors %}
-     <div class="card card123">
-        <img src="{{ site.github.url }}/assets/img/{{ sponsor }}" style="max-width:400px;height:200px">
-        <div class="containercard">
-          <h4><b>{{ sponsor }}</b></h4>
-        </div>
-     </div>
-    {% endfor %}
+    <div class="scrolling-wrapper">
+      {% for sponsor in page.sponsors %}
+       <div class="card card123">
+          <img src="{{ site.github.url }}/assets/img/{{ sponsor }}" style="max-width:400px;height:200px">
+          <div class="containercard">
+            <h4><b>{{ sponsor }}</b></h4>
+          </div>
+       </div>
+      {% endfor %}
+    </div>
   </<article>
 
   <!-- choose either text with links or images for sponsors -->
