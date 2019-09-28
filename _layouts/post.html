@@ -51,7 +51,14 @@ layout: default
   <h2 style="text-align:center">Sponsors</h2>
 
   <article style="text-align:center">
-    Choose either text with links or images for sponsors
+    {% for sponsor in page.sponsors %}
+     <div class="card card123">
+        <img src="{{ site.github.url }}/assets/img/{{ sponsor }}" style="max-width:400px;height:200px">
+        <div class="containercard">
+          <h4><b>{{ sponsor }}</b></h4>
+        </div>
+     </div>
+    {% endfor %}
   </<article>
 
   <!-- choose either text with links or images for sponsors -->
