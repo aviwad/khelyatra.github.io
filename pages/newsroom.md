@@ -43,7 +43,7 @@ title: Newsroom - Khel Yatra is featured on...
   <div class="newsroomcolumn">
     <div class="newsroomcard">
       <div class="containercard">
-        <h4><b><a class="hover_underline" href="https://timesofindia.indiatimes.com/city/gurgaon/underprivileged-children-revel-in-a-morning-of-footie/articleshow/60250017.cms" target="_blank">Times of India - Khel Yatra 2</a></b></h4>
+        <h4><b><a class="hover_underline" href="https://timesofindia.indiatimes.com/city/gurgaon/underprivileged-children-revel-in-a-morning-of-footie/articleshow/60250017.cms" target="_blank">Times of India</a></b></h4>
       </div>
     </div>
   </div>
