@@ -77,13 +77,13 @@
   padding: 16px;
   text-align: center;
   margin-top: 10px;
+  transition: margin-top 1s;
+  -webkit-transition: width 1s;
 }
 
 .newsroomcard:hover {
   box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
   margin-top: 0px;
-  transition: margin-top 1s;
-  -webkit-transition: width 1s;
 }
 
 /* Responsive columns - one column layout (vertical) on small screens */
